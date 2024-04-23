@@ -14,8 +14,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/posandoval/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 <a href="https://www.instagram.com/omarsandoval.26/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="linkedin" width="40" height="40"/> </a>
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/omarsandoval.26//)  </p>
+  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=posandoval&label=Profile%20views&color=0e75b6&style=flat" alt="posandoval" /> </p>
 
