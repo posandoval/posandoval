@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **React and Spring Boot**
 
-- 🌱 I’m currently learning **Spring Boot, React**
+- 🌱 I’m currently learning **React and Docker**
 
-- 💬 Ask me about **Spring Boot, React, Tech**
+- 💬 Ask me about **Programming and Tech**
 
 - 📫 How to reach me **omarsand40@gmail.com**
 
